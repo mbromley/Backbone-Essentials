@@ -446,6 +446,7 @@ var groupByFirstLetter = blah.groupBy(function(book){
 });
 console.log(groupByFirstLetter);
 
-
+console.log('Why is everything that i type being watched?');
+console.log('Here is a second line');
 
 
